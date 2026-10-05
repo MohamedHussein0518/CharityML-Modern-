@@ -113,7 +113,7 @@ P2/
 
 ---
 
-## 🚀 5. How to Run It (طريقة التشغيل)
+## 🚀 5. How to Run It 
 
 ### ⚠️ Prerequisites (متطلبات أساسية هامة جداً):
 1. **Python 3.10+** (tested and verified on Python 3.12).
@@ -166,17 +166,25 @@ You can also simply navigate to `charityml_platform/` and double-click:
 
 *(Order below is arbitrary — not ranked by importance.)*
 
-| Name | Role | GitHub Profile |
-| :--- | :--- | :--- |
-| **Mohamed Hussein — Team Leader** | | [![GitHub](https://img.shields.io/badge/GitHub-MohamedHussein0518-181717?logo=github)](https://github.com/MohamedHussein0518) |
-| **Anas Sayed** | | [![GitHub](https://img.shields.io/badge/GitHub-Riplinux-181717?logo=github)](https://github.com/Riplinux) |
-| **Hassan Ali** | | [![GitHub](https://img.shields.io/badge/GitHub-7assan--Ali-181717?logo=github)](https://github.com/7assan-Ali) |
-| **Ahmed Rabie** | | [![GitHub](https://img.shields.io/badge/GitHub-ahmedrabiem-181717?logo=github)](https://github.com/ahmedrabiem) |
-| **Heba Ramadan** | | [![GitHub](https://img.shields.io/badge/GitHub-hebaramadan1-181717?logo=github)](https://github.com/hebaramadan1) |
-| **Maha Khaled** | | [![GitHub](https://img.shields.io/badge/GitHub-Maha--123--dot-181717?logo=github)](https://github.com/Maha-123-dot) |
+| Name | GitHub Profile |
+| :--- | :--- |
+| **Mohamed Hussein — Team Leader** | | [MohamedHussein0518](https://github.com/MohamedHussein0518) |
+| **Anas Sayed** | [Riplinux](https://github.com/Riplinux) |
+| **Hassan Ali** | [7assan-Ali](https://github.com/7assan-Ali)) |
+| **Ahmed Rabie** | [ahmedrabiem](https://github.com/ahmedrabiem) |
+| **Heba Ramadan** | [eng80022-a11y](https://github.com/hebaramadan1) |
+| **Maha Khaled** | [Maha-123-dot](https://github.com/Maha-123-dot) |
 
 ---
 
 ### 🎓 Under the Supervision of:
 **George Samuel — Instructor** ([@gsamuei](https://github.com/gsamueil))  
 *Digital Egypt Pioneers Initiative (DEPI) — Machine Learning Track*
+---
+
+<div align="center">
+
+# ML Project
+### DEPI - AMIT
+
+</div>
